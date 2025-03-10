@@ -7,11 +7,9 @@ Inspired by [elly's site](http://tilde.town/~elly/), expressly created for [my p
 
 <h3 align="center"><a href="https://riggraz.dev/no-style-please/">Try the demo out!</a></h3>
 
-<img src="https://raw.githubusercontent.com/riggraz/no-style-please/master/_screenshots/featured-image.png" />
-
 ## Features
 
-* Fast (**1kb of CSS!** For more information on performance and more, see [Page Speed Insights report](https://raw.githubusercontent.com/riggraz/no-style-please/master/_screenshots/page-speed-insights-report.png) and [Lighthouse report](https://raw.githubusercontent.com/riggraz/no-style-please/master/_screenshots/lighthouse-report.png))
+* Fast (**1kb of CSS!** For more information on performance and more
 * Light, dark and auto modes
 * Responsive
 * Content first (typography optimized for maximum readability)
