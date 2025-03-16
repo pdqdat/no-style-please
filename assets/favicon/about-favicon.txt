@@ -1,0 +1,8 @@
+This favicon was generated using the following font:
+
+- Font title: Ubuntu (https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoCxCvTt2aMH4V_gg.ttf)
+- Font color: #fff
+- Background color: #000
+- Font family: Ubuntu
+- Font variant: Bold 700 Normal
+- Font size: 110
