@@ -2,28 +2,28 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
-    entries:
-      - title: I'm an IT student from Vietnam
-      - title: I'm interested in web/front-end development
-      - title: I'm eager to learn and grow in the tech industry
+    - title: info
+      entries:
+          - title: I'm an IT student from Vietnam
+          - title: I'm interested in web/front-end development
+          - title: I'm eager to learn and grow in the tech industry
 
-  - title: Fun projects that I made
-    entries:
-      - title: <a href="https://github.com/iamdatphan/2048" target="_blank">2048</a>
+    - title: Fun projects that I made
+      entries:
+          - title: <a href="https://github.com/iamdatphan/2048" target="_blank">2048</a>
 
-  - title: Contact
-    entries:
-      - title: <a href="mailto:pd.quocdat@gmail.com">pd.quocdat@gmail.com</a>
-  
-  - title: Socials
-    entries:
-      - title: <a href="https://github.com/pdqdat" target="_blank">Work Github</a>
-      - title: <a href="https://linkedin.com/in/pdqdat" target="_blank">LinkedIn</a>
+    - title: Contact
+      entries:
+          - title: <a href="mailto:pd.quocdat@gmail.com">pd.quocdat@gmail.com</a>
 
-  - title: Posts
-    post_list:
-      limit: 5
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
+    - title: Socials
+      entries:
+          - title: <a href="https://github.com/pdqdat" target="_blank">Work Github</a>
+          - title: <a href="https://linkedin.com/in/pdqdat" target="_blank">LinkedIn</a>
+
+    - title: Posts
+      post_list:
+          limit: 5
+          show_more: true
+          show_more_text: See archive...
+          show_more_url: archive.html
